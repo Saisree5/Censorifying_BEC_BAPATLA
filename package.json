@@ -1,0 +1,9 @@
+{
+	"name":"censorify",
+	"version":"0.0.1",
+	"main":"Censortext.js",
+	"description":"Censor bad words",
+	"dependencies":{
+	
+	}
+}
